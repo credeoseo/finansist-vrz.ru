@@ -1,0 +1,4 @@
+Sitemap: https://finansist-vrz.ru/sitemap.xml
+
+User-agent: *
+Disallow:
